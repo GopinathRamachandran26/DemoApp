@@ -25,7 +25,7 @@
 // }
 
 import React from "react";
-import ReactDOM from "react-dom";
+//import ReactDOM from "react-dom";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './App.css';
 import Home from './pagestask/home';
